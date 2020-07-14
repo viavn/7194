@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\balta\\7194\\Shop\\Shop.csproj": {}
+    "E:\\balta\\7194\\Shop\\src\\Shop.csproj": {}
   },
   "projects": {
-    "E:\\balta\\7194\\Shop\\Shop.csproj": {
+    "E:\\balta\\7194\\Shop\\src\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\balta\\7194\\Shop\\Shop.csproj",
+        "projectUniqueName": "E:\\balta\\7194\\Shop\\src\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "E:\\balta\\7194\\Shop\\Shop.csproj",
+        "projectPath": "E:\\balta\\7194\\Shop\\src\\Shop.csproj",
         "packagesPath": "C:\\Users\\osv\\.nuget\\packages\\",
-        "outputPath": "E:\\balta\\7194\\Shop\\obj\\",
+        "outputPath": "E:\\balta\\7194\\Shop\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osv\\AppData\\Roaming\\NuGet\\NuGet.Config",
